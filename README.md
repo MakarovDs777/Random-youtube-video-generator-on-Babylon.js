@@ -6,7 +6,7 @@
 
 [Random video generator on babylon.js (Version 0 - Random video from the video array) | Babylon.js Playground](https://playground.babylonjs.com/#ZMF300)
 
-Теперь нужно сделать случайные видео из всего yotube а не только ограниченное количество видео из массива.
+Теперь нужно сделать случайные видео из всего youtube а не только ограниченное количество видео из массива.
 
 [Random video generator on babylon.js (Version 1 - Random videos from all over youtube) | Babylon.js Playground](https://playground.babylonjs.com/#SFXXGG)
 
